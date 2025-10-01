@@ -1,6 +1,6 @@
 # TON Storage API
 
-The first comprehensive Python API for TON Storage - the decentralized storage solution on The Open Network blockchain.
+The Python API for TON Storage - the decentralized storage solution on The Open Network blockchain.
 
 ## Features
 
