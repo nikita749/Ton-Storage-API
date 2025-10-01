@@ -27,9 +27,9 @@ cd ton-storage-api
 ## Dependencies:
 - pexpect>=4.8.0
 
-##Quick start
+## Quick start
 
-###Basic Usage
+### Basic Usage
 
 ```python
 from ton_storage_api import TonStorageAPI
