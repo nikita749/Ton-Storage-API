@@ -16,7 +16,7 @@ The first comprehensive Python API for TON Storage - the decentralized storage s
 ### Prerequisites
 
 - Python 3.7+
-- TON Storage Daemon ([Installation Guide](docs/INSTALLATION.md))
+- TON Storage Daemon ([Installation Guide](https://docs.ton.org/v3/guidelines/web3/ton-storage/storage-daemon))
 
 ### Install from Source
 
